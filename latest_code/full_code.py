@@ -634,54 +634,68 @@ def group_by_func(final_df,query_dict,grp_cols,group_agg):
 # In[13]:
 
 
-query = """SELECT sum(A.alpha) as alpha1, 
-    coalesce( A.crossover_rms,0) as CO_RN_Goal, 
-    coalesce( ( A.crossover_rms*B.crossover_gadr),0) as CO_Rev_Goal,
-    A.marsha as MARS, 
-    A.stay_year as stay_year_REN, 
-    A.CO_RN_Goal, 
-    A.CO_Rev_Goal, 
-    A.CO_RN_Goal_ADR, 
-    A.Def_OTB, 
-    A.Def_REV, 
-    A.Def_ADR, 
-    A.Target, 
-    A.Avg_Bkd  
-    FROM merge_CrossOver1 A 
-    join merge_CrossOver B 
-    on A.marsha = B.marsha and A.marsha1 = B.marsha1
-    join 
-    merge_CrossOver2 C on A.marsha = C.marsha and A.marsha1 = C.marsha1 
-    Where A.Target=1 
-    and A.Target in (1,2,3,4) 
-    and A.Avg_Bkd="ABCD" 
-	group by 
-    crossover_rms, 
-	crossover_gadr,marsha,
-	stay_year,
-	CO_RN_Goal,
-	CO_Rev_Goal,
-	CO_RN_Goal_ADR,
-	Def_OTB,
-	Def_REV,
-	Def_ADR,
-	Target,
-	Avg_Bkd
-	order by 
-    A.marsha,A.Avg_Bkd"""
+# query = """SELECT sum(A.alpha) as alpha1, 
+#     coalesce( A.crossover_rms,0) as CO_RN_Goal, 
+#     coalesce( ( A.crossover_rms*B.crossover_gadr),0) as CO_Rev_Goal,
+#     A.marsha as MARS, 
+#     A.stay_year as stay_year_REN, 
+#     A.CO_RN_Goal, 
+#     A.CO_Rev_Goal, 
+#     A.CO_RN_Goal_ADR, 
+#     A.Def_OTB, 
+#     A.Def_REV, 
+#     A.Def_ADR, 
+#     A.Target, 
+#     A.Avg_Bkd  
+#     FROM merge_CrossOver1 A 
+#     join merge_CrossOver B 
+#     on A.marsha = B.marsha and A.marsha1 = B.marsha1
+#     join 
+#     merge_CrossOver2 C on A.marsha = C.marsha and A.marsha1 = C.marsha1 
+#     Where A.Target=1 
+#     and A.Target in (1,2,3,4) 
+#     and A.Avg_Bkd="ABCD" 
+# 	group by 
+#     crossover_rms, 
+# 	crossover_gadr,marsha,
+# 	stay_year,
+# 	CO_RN_Goal,
+# 	CO_Rev_Goal,
+# 	CO_RN_Goal_ADR,
+# 	Def_OTB,
+# 	Def_REV,
+# 	Def_ADR,
+# 	Target,
+# 	Avg_Bkd
+# 	order by 
+#     A.marsha,A.Avg_Bkd"""
 
 
-# In[14]:
+# In[29]:
+
+
+query = """SELECT coalesce( A.crossover_rms,0) as CO_RN_Goal, coalesce( ( A.crossover_rms*B.crossover_gadr),0) as CO_Rev_Goal,
+     A.marsha as MARS, A.stay_year as stay_year_REN, A.CO_RN_Goal, A.CO_Rev_Goal, A.CO_RN_Goal_ADR, A.Def_OTB, A.Def_REV, A.Def_ADR, A.Target, A.Avg_Bkd  FROM merge_CrossOver1 A join merge_CrossOver B on A.marsha = B.marsha and A.marsha1 = B.marsha1
+     join merge_CrossOver2 C on A.marsha = C.marsha and A.marsha1 = C.marsha1 Where A.Target=1 and A.Target in (1,2,3,4) and A.Avg_Bkd="ABCD" order by A.marsha,A.Avg_Bkd"""
+
+
+# In[22]:
+
+
+# query= """SELECT a.col as newCol1, b.col2 as newCol2
+#      FROM merge_CrossOver1 A join merge_CrossOver b on a.c = b.c"""   
+
+
+# In[30]:
 
 
 query_dict = parse(query.lower())
 select_list = query_dict["select"]
-group_section = query_dict['groupby']
 from_tag = query_dict["from"]
 col_list = get_column_details(select_list)
 
 
-# In[15]:
+# In[31]:
 
 
 table_name_list,join_list = get_table_details(from_tag)
@@ -693,7 +707,7 @@ print((after_from_df))
 print(final_dataframe)
 
 
-# In[16]:
+# In[32]:
 
 
 for i in after_from_df:
@@ -701,7 +715,7 @@ for i in after_from_df:
     print("\n")
 
 
-# In[17]:
+# In[33]:
 
 
 final_df= final_dataframe
@@ -712,13 +726,17 @@ for i in pandas_output:
     print("\n")
 
 
-# In[18]:
+# In[34]:
 
 
-grp_cols=grp_cols(group_section)
-group_agg=group_agg(select_complex(select_list))
-grouping=group_by_func(final_df,query_dict,grp_cols,group_agg)
-print(grouping)
+if "groupby" in query_dict:
+    group_section = query_dict['groupby']
+    grp_cols=grp_cols(group_section)
+    group_agg=group_agg(select_complex(select_list))
+    grouping=group_by_func(final_df,query_dict,grp_cols,group_agg)
+    print(grouping)
+else:
+    pass
 
 
 # In[ ]:
