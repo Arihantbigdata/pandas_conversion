@@ -717,7 +717,8 @@ for i in pandas_output:
 
 grp_cols=grp_cols(group_section)
 group_agg=group_agg(select_complex(select_list))
-group_by_func(final_df,query_dict,grp_cols,group_agg)
+grouping=group_by_func(final_df,query_dict,grp_cols,group_agg)
+print(grouping)
 
 
 # In[ ]:
