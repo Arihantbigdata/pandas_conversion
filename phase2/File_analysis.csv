@@ -1,0 +1,283 @@
+File Names,Total Number of Lines with Comments,Number of Lines without Comments,No. of Unconverted Lines,No. of Converted Lines,Conversion Percentage,Non-Conversion Percentage
+(no Add Dem) ESFactor MRDW Data Pull.sas,573,499,23,476,95.39,4.609999999999999
+01_Hotel_Acct_MA_SA_ID.sas,108,67,10,57,85.07,14.930000000000007
+03_EPM_Catering_HotelAcct with AV.sas,306,220,11,209,95.0,5.0
+03_EPM_Catering_HotelAcct.sas,298,214,12,202,94.39,5.609999999999999
+04_Hotel_Acct_MA_SA_ID_Output.sas,163,113,10,103,91.15,8.849999999999994
+14_MarketSharePerf.sas,148,123,27,96,78.05,21.950000000000003
+2019_BT_Report_for_Sabrina.sas,195,162,36,126,77.78,22.22
+7_CrossOverData.sas,50,39,2,37,94.87,5.1299999999999955
+7_Group_Projection_Comparision_RMSAD_LockedFcst.sas,166,101,31,70,69.31,30.689999999999998
+7_SRL_data.sas,85,53,10,43,81.13,18.870000000000005
+Account_Dashboard_BT_MI.sas,552,400,54,346,86.5,13.5
+Account_Dash_Sources.sas,304,200,29,171,85.5,14.5
+ACT_MAMS_full_procedure.sas,170,98,16,82,83.67,16.33
+Americas_01_Hotel_Acct_MA_SA_ID.sas,108,67,10,57,85.07,14.930000000000007
+Americas_03_EPM_Catering_HotelAcct.sas,298,214,12,202,94.39,5.609999999999999
+Americas_03_EPM_Catering_HotelAcct_with_AV.sas,306,220,11,209,95.0,5.0
+Americas_04_Hotel_Acct_MA_SA_ID_Output.sas,163,113,10,103,91.15,8.849999999999994
+Americas_14_MarketSharePerf.sas,148,123,27,96,78.05,21.950000000000003
+Americas_2019_BT_Report_for_Sabrina.sas,195,162,36,126,77.78,22.22
+Americas_7_CrossOverData.sas,50,39,2,37,94.87,5.1299999999999955
+Americas_Account_Dashboard_BT_MI.sas,552,400,54,346,86.5,13.5
+Americas_Account_Dash_Sources.sas,304,200,29,171,85.5,14.5
+Americas_AP_Combined_MISW.sas,66,52,4,48,92.31,7.689999999999998
+Americas_Archive_Hawaii_Property_List.sas,39,27,8,19,70.37,29.629999999999995
+Americas_AreaSales_ATRTop100.sas,502,346,54,292,84.39,15.61
+Americas_AW_Americas_Load_Acct_Dash_AP_Cleansed.sas,118,70,12,58,82.86,17.14
+Americas_AW_Americas_Load_Acct_Data_Consolidated.sas,95,62,4,58,93.55,6.450000000000003
+Americas_AW_Americas_Load_Acct_Detail_Cleansed.sas,213,86,12,74,86.05,13.950000000000003
+Americas_AW_Americas_Load_AP_Combined_MISW.sas,128,75,6,69,92.0,8.0
+Americas_AW_Americas_Load_MARSHA_Data_Consolidated.sas,90,58,4,54,93.1,6.900000000000006
+Americas_AW_Area_Sales_CFD_Macro.sas,93,48,11,37,77.08,22.92
+Americas_AW_Entertainment_BT_Load.sas,76,46,4,42,91.3,8.700000000000003
+Americas_AW_Load_AreaSales_Final.sas,145,95,6,89,93.68,6.319999999999993
+Americas_AW_Load_Area_ATR.sas,249,91,15,76,83.52,16.480000000000004
+Americas_AW_Load_Area_Sales_Funnel.sas,100,51,12,39,76.47,23.53
+Americas_AW_Load_Area_Special_Corp.sas,163,79,7,72,91.14,8.86
+Americas_AW_Load_AssociateProduction_Dashboard.sas,100,63,4,59,93.65,6.349999999999994
+Americas_AW_Load_AS_DataAdjustments_Final.sas,77,40,4,36,90.0,10.0
+Americas_AW_Load_BTSM_BT_GOAL_PROD.sas,90,44,4,40,90.91,9.090000000000003
+Americas_AW_Load_BTSM_QUAL_GOAL_PROD.sas,90,44,4,40,90.91,9.090000000000003
+Americas_AW_Load_BTSM_RN_Detail.sas,96,50,4,46,92.0,8.0
+Americas_AW_Load_BT_Inbnd_Otbnd.sas,115,63,26,37,58.73,41.27
+Americas_AW_Load_CI07Dash.sas,58,37,4,33,89.19,10.810000000000002
+Americas_AW_Load_InbndOutbnd_WIG_Data_v2.sas,64,44,1,43,97.73,2.269999999999996
+Americas_AW_Load_LUX_Rate_Program_Prod.sas,79,44,4,40,90.91,9.090000000000003
+Americas_AW_Load_LUX_RP_Details_Prod.sas,84,49,4,45,91.84,8.159999999999997
+Americas_AW_Load_Manual_Adjustments.sas,145,98,4,94,95.92,4.079999999999998
+Americas_AW_Load_MgrProd_Final.sas,140,89,6,83,93.26,6.739999999999995
+Americas_AW_Load_Mgr_Prod_by_Account.sas,102,53,12,41,77.36,22.64
+Americas_AW_Load_OutboundData.sas,123,72,6,66,91.67,8.329999999999998
+Americas_AW_Load_Outbound_AP_Leadership_Dashboard_v2.sas,144,104,6,98,94.23,5.769999999999996
+Americas_AW_Load_OwnerDashboard_Final.sas,114,66,4,62,93.94,6.060000000000002
+Americas_AW_Load_Prod_Dynamic_Wholesale_Mth.sas,86,48,4,44,91.67,8.329999999999998
+Americas_AW_Load_PropProd_Final.sas,131,84,4,80,95.24,4.760000000000005
+Americas_AW_Load_QuoteData.sas,102,55,4,51,92.73,7.269999999999996
+Americas_AW_Load_Sales_Participating_Properties.sas,99,38,4,34,89.47,10.530000000000001
+Americas_AW_Load_TMC_Consortia_Prod.sas,92,58,4,54,93.1,6.900000000000006
+Americas_Import_ManualAdj.sas,82,65,5,60,92.31,7.689999999999998
+Americas_Import_Manual_Adjustments.sas,84,72,1,71,98.61,1.3900000000000006
+Americas_OutboundData.sas,126,86,3,83,96.51,3.489999999999995
+Americas_Pace_ManAdjustments_Detail_AW.sas,172,137,2,135,98.54,1.4599999999999937
+Americas_Prop_Prod_v_Goal.sas,86,68,3,65,95.59,4.409999999999997
+Americas_QD.sas,242,140,4,136,97.14,2.8599999999999994
+Americas_QD_Whlsale.sas,300,169,26,143,84.62,15.379999999999995
+Americas_Quote_Detail_with_Manual_Adds_AW.sas,134,95,16,79,83.16,16.840000000000003
+Americas_SFO_Wholesale_Data_(FINAL).sas,260,138,22,116,84.06,15.939999999999998
+Americas_Special_Corporate.sas,131,106,17,89,83.96,16.040000000000006
+Americas_US_Account_Sales_ASAR_Project.sas,347,227,57,170,74.89,25.11
+Americas_W_Consortia_Production.sas,260,221,47,174,78.73,21.269999999999996
+Americas_YTD_Cost_Allocation.sas,120,88,6,82,93.18,6.819999999999993
+Annual Bonus Reporting 2018 Converted to AW.sas,797,553,54,499,90.24,9.760000000000005
+AP_Combined_MISW.sas,66,52,4,48,92.31,7.689999999999998
+Archive_Hawaii_Property_List.sas,39,27,8,19,70.37,29.629999999999995
+AreaSales_ATRTop100.sas,502,346,54,292,84.39,15.61
+Asia_SGDS_Data.sas,77,47,23,24,51.06,48.94
+Autograph Hotel Groupings by Open Date Converted to AW.sas,146,121,15,106,87.6,12.400000000000006
+AWupload.sas,271,232,61,171,73.71,26.290000000000006
+AW_ACTIVITY_UPLOAD.sas,94,69,7,62,89.86,10.14
+AW_Americas_Load_Acct_Dash_AP_Cleansed.sas,118,70,12,58,82.86,17.14
+AW_Americas_Load_Acct_Data_Consolidated.sas,95,62,4,58,93.55,6.450000000000003
+AW_Americas_Load_Acct_Detail_Cleansed.sas,213,86,12,74,86.05,13.950000000000003
+AW_Americas_Load_AP_Combined_MISW.sas,128,75,6,69,92.0,8.0
+AW_Americas_Load_MARSHA_Data_Consolidated.sas,90,58,4,54,93.1,6.900000000000006
+AW_Area_Sales_CFD_Macro.sas,93,48,11,37,77.08,22.92
+AW_Entertainment_BT_Load.sas,76,46,4,42,91.3,8.700000000000003
+AW_GRP_SCRIPT_FINAL.sas,1345,748,65,683,91.31,8.689999999999998
+AW_load_AMT_AGG_2020_1st_Setup.sas,234,178,12,166,93.26,6.739999999999995
+AW_Load_AreaSales_Final.sas,145,95,6,89,93.68,6.319999999999993
+AW_Load_Area_ATR.sas,249,91,15,76,83.52,16.480000000000004
+AW_Load_Area_Sales_Funnel.sas,100,51,12,39,76.47,23.53
+AW_Load_Area_Special_Corp.sas,163,79,7,72,91.14,8.86
+AW_Load_AssociateProduction_Dashboard.sas,100,63,4,59,93.65,6.349999999999994
+AW_Load_AS_DataAdjustments_Final.sas,77,40,4,36,90.0,10.0
+AW_Load_BTSM_BT_GOAL_PROD.sas,90,44,4,40,90.91,9.090000000000003
+AW_Load_BTSM_QUAL_GOAL_PROD.sas,90,44,4,40,90.91,9.090000000000003
+AW_Load_BTSM_RN_Detail.sas,96,50,4,46,92.0,8.0
+AW_Load_BT_Inbnd_Otbnd.sas,115,63,26,37,58.73,41.27
+AW_Load_CI07Dash.sas,58,37,4,33,89.19,10.810000000000002
+AW_load_compete.sas,198,92,6,86,93.48,6.519999999999996
+AW_load_global_pipeline_Load_wASYRMO.sas,167,136,6,130,95.59,4.409999999999997
+AW_Load_InbndOutbnd_WIG_Data_v2.sas,64,44,1,43,97.73,2.269999999999996
+AW_Load_LUX_Rate_Program_Prod.sas,79,44,4,40,90.91,9.090000000000003
+AW_Load_LUX_RP_Details_Prod.sas,84,49,4,45,91.84,8.159999999999997
+AW_Load_Manual_Adjustments.sas,145,98,4,94,95.92,4.079999999999998
+AW_Load_MgrProd_Final.sas,140,89,6,83,93.26,6.739999999999995
+AW_Load_Mgr_Prod_by_Account.sas,102,53,12,41,77.36,22.64
+aw_load_new_week.sas,219,175,10,165,94.29,5.709999999999994
+AW_Load_OutboundData.sas,123,72,6,66,91.67,8.329999999999998
+AW_Load_Outbound_AP_Leadership_Dashboard_v2.sas,144,104,6,98,94.23,5.769999999999996
+AW_Load_OwnerDashboard_Final.sas,114,66,4,62,93.94,6.060000000000002
+AW_Load_Prod_Dynamic_Wholesale_Mth.sas,86,48,4,44,91.67,8.329999999999998
+AW_Load_PropProd_Final.sas,131,84,4,80,95.24,4.760000000000005
+AW_Load_QuoteData.sas,102,55,4,51,92.73,7.269999999999996
+AW_Load_Sales_Participating_Properties.sas,99,38,4,34,89.47,10.530000000000001
+AW_load_Star_30Month_Load_Flat.sas,535,301,7,294,97.67,2.3299999999999983
+AW_load_Star_60Month_Load_Flat.sas,464,257,7,250,97.28,2.719999999999999
+AW_load_Star_Comp_Load.sas,78,47,5,42,89.36,10.64
+AW_load_STR_Census_wASYRMO.sas,285,127,6,121,95.28,4.719999999999999
+AW_Load_STR_Property_v2.sas,241,170,80,90,52.94,47.06
+AW_Load_TMC_Consortia_Prod.sas,92,58,4,54,93.1,6.900000000000006
+AW_PACE_UPLOAD.sas,205,184,6,178,96.74,3.260000000000005
+CC36_Batch_Monthly_ReportsV9.sas,469,307,18,289,94.14,5.859999999999999
+CC52_industry_v5.sas,525,322,49,273,84.78,15.219999999999999
+CC53_new60month_newAW_vALL11marsha.sas,1045,618,134,484,78.32,21.680000000000007
+Combine MadAboutMktShare Data3-OtherBrnds.sas,712,595,80,515,86.55,13.450000000000003
+Combine Master MMAS and ESFACTOR.sas,12,2,2,0,0.0,100.0
+compset_check_tool.sas,82,55,25,30,54.55,45.45
+Daily Extract Weekly Batch.sas,164,123,44,79,64.23,35.769999999999996
+DAYSTAR_LOAD_AW.sas,653,555,86,469,84.5,15.5
+Demand Strategy Data Pullv4.sas,1014,569,31,538,94.55,5.450000000000003
+DSP-Global_Sales_2020-01-14_DSP_-_Global_Sales_Manual_Adjustment_SAS_Scripts_GSO_Group_MA_Validation.sas,972,781,127,654,83.74,16.260000000000005
+DSP-Global_Sales_2020-01-14_DSP_-_Global_Sales_Manual_Adjustment_SAS_Scripts_GSO_Group_Pace_Adjustment_NotinPrelim.sas,219,148,8,140,94.59,5.409999999999997
+DSP-Global_Sales_2020-01-14_DSP_-_Global_Sales_Manual_Adjustment_SAS_Scripts_GSO_Group_Pace_Adjustment_Processing_2019.sas,904,713,223,490,68.72,31.28
+DSP-Global_Sales_2020-01-14_DSP_-_Global_Sales_Manual_Adjustment_SAS_Scripts_GSO_TRN_ADJ_FINAL_VALIDATION.sas,168,105,24,81,77.14,22.86
+DSP-Global_Sales_2020-01-14_DSP_-_Global_Sales_Manual_Adjustment_SAS_Scripts_GSO_TRN_ADJ_INITIAL_VALIDATION.sas,234,155,30,125,80.65,19.349999999999994
+DSP-Global_Sales_2020-01-14_DSP_-_Global_Sales_Manual_Adjustment_SAS_Scripts_GSO_TRN_ADJ_LOAD.sas,314,177,12,165,93.22,6.780000000000001
+ERS Datapullv2.sas,316,266,9,257,96.62,3.3799999999999955
+ESF - OY Forecast.sas,135,82,8,74,90.24,9.760000000000005
+ESF-3 and 4 LOS Mix.sas,120,55,6,49,89.09,10.909999999999997
+ESF-Business Mix.sas,79,55,7,48,87.27,12.730000000000004
+ESF-Combine Data.sas,676,553,84,469,84.81,15.189999999999998
+ESF-Hotel Level Comp Rates Index_Final_RPO.sas,317,234,22,212,90.6,9.400000000000006
+ESF-M.com Volume Growth.sas,147,112,9,103,91.96,8.040000000000006
+ESF-STR Monthly (FW WD and WE) - AW.sas,399,305,6,299,98.03,1.9699999999999989
+ESFactor - OTB Data Pull.sas,180,129,12,117,90.7,9.299999999999997
+ESFactor Master.sas,35,9,9,0,0.0,100.0
+ESFactor MRDW Data Pull.sas,579,503,22,481,95.63,4.3700000000000045
+FB Data from Finance Extract.sas,1020,807,199,608,75.34,24.659999999999997
+FDD incl Hotel Detail Converted to AW.sas,616,514,43,471,91.63,8.370000000000005
+ftp.sas,92,42,42,0,0.0,100.0
+GroupBookings_WklyReport.sas,362,95,35,60,63.16,36.84
+GrpError.sas,29,21,5,16,76.19,23.810000000000002
+GSO_Group_MA_Validation.sas,972,781,127,654,83.74,16.260000000000005
+GSO_Group_Pace_Adjustment_NotinPrelim.sas,219,148,8,140,94.59,5.409999999999997
+GSO_Group_Pace_Adjustment_Processing_2019.sas,904,713,223,490,68.72,31.28
+GSO_TRN_ADJ_FINAL_VALIDATION.sas,168,105,24,81,77.14,22.86
+GSO_TRN_ADJ_INITIAL_VALIDATION.sas,234,155,30,125,80.65,19.349999999999994
+GSO_TRN_ADJ_LOAD.sas,314,177,12,165,93.22,6.780000000000001
+Import Manual Adjustments.sas,84,72,1,71,98.61,1.3900000000000006
+Import_ManualAdj.sas,82,65,5,60,92.31,7.689999999999998
+Intl_Pace_All.sas,215,129,53,76,58.91,41.09
+Lux Group Pace.sas,14,11,4,7,63.64,36.36
+MAMS - OTB Data Pull.sas,310,229,12,217,94.76,5.239999999999995
+MAMS - OY Forecast.sas,126,83,8,75,90.36,9.64
+MAMS Master.sas,41,10,10,0,0.0,100.0
+MAMS MRDW Data Pull - Monthly New.sas,405,349,17,332,95.13,4.8700000000000045
+MAMS zeroTOBEs120.sas,33,25,7,18,72.0,28.0
+MAMS-STR Monthly (FW WD and WE) - AW.sas,396,283,8,275,97.17,2.8299999999999983
+MDP_Migration_AW_Code_1-10-2020_1709_CX_RM_Analytics_-_DSP_AW_load_global_pipeline_Load_wASYRMO.sas,167,136,6,130,95.59,4.409999999999997
+MDP_Migration_AW_Code_1-10-2020_1709_CX_RM_Analytics_-_DSP_aw_load_new_week.sas,219,175,10,165,94.29,5.709999999999994
+MDP_Migration_AW_Code_1-10-2020_1709_CX_RM_Analytics_-_DSP_AW_load_STR_Census_wASYRMO.sas,285,127,6,121,95.28,4.719999999999999
+MDP_Migration_AW_Code_1-10-2020_1709_CX_RM_Analytics_-_DSP_AW_Load_STR_Property_v2.sas,241,170,80,90,52.94,47.06
+MDP_Migration_AW_Code_1-10-2020_1709_CX_RM_Analytics_-_DSP_compset_check_tool.sas,82,55,25,30,54.55,45.45
+MDP_Migration_AW_Code_1-10-2020_1709_CX_RM_Analytics_-_DSP_DAYSTAR_LOAD_AW.sas,653,555,86,469,84.5,15.5
+MDP_Migration_AW_Code_1-10-2020_1709_CX_RM_Analytics_-_DSP_OY_DATA.sas,430,373,73,300,80.43,19.569999999999993
+MDP_Migration_AW_Code_1-10-2020_1709_CX_RM_Analytics_-_DSP_Quarterly_Crunch.sas,689,670,2,668,99.7,0.29999999999999716
+MDP_Migration_AW_Code_1-10-2020_1709_CX_RM_Analytics_-_DSP_str_monthly_reporting_AW_load_compete.sas,198,92,6,86,93.48,6.519999999999996
+MDP_Migration_AW_Code_1-10-2020_1709_CX_RM_Analytics_-_DSP_str_monthly_reporting_AW_load_Star_30Month_Load_Flat.sas,535,301,7,294,97.67,2.3299999999999983
+MDP_Migration_AW_Code_1-10-2020_1709_CX_RM_Analytics_-_DSP_str_monthly_reporting_AW_load_Star_60Month_Load_Flat.sas,464,257,7,250,97.28,2.719999999999999
+MDP_Migration_AW_Code_1-10-2020_1709_CX_RM_Analytics_-_DSP_str_monthly_reporting_AW_load_Star_Comp_Load.sas,78,47,5,42,89.36,10.64
+MDP_Migration_AW_Code_1-10-2020_1709_CX_RM_Analytics_-_DSP_str_monthly_reporting_CC36_Batch_Monthly_ReportsV9.sas,469,307,18,289,94.14,5.859999999999999
+MDP_Migration_AW_Code_1-10-2020_1709_CX_RM_Analytics_-_DSP_str_monthly_reporting_CC52_industry_v5.sas,525,322,49,273,84.78,15.219999999999999
+MDP_Migration_AW_Code_1-10-2020_1709_CX_RM_Analytics_-_DSP_str_monthly_reporting_CC53_new60month_newAW_vALL11marsha.sas,1045,618,134,484,78.32,21.680000000000007
+MDP_Migration_AW_Code_1-10-2020_1709_CX_RM_Analytics_-_DSP_str_monthly_reporting_STAR_POST_PROCESS.SAS,99,27,27,0,0.0,100.0
+MDP_Migration_AW_Code_1-10-2020_1709_CX_RM_Analytics_-_DSP_wcomp_aw.sas,353,328,2,326,99.39,0.6099999999999994
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Analytics_FB_Data_from_Finance_Extract.sas,1020,807,199,608,75.34,24.659999999999997
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Analytics_One_Yield_v2_Effectiveness_GrpError.sas,29,21,5,16,76.19,23.810000000000002
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Analytics_SAS_Shared_Macros_AWupload.sas,271,232,61,171,73.71,26.290000000000006
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Analytics_SAS_Shared_Macros_ftp.sas,92,42,42,0,0.0,100.0
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Analytics_SAS_Shared_Macros_sas_starter.sas,31,16,16,0,0.0,100.0
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Analytics_State_of_the_Hotel.sas,1017,763,135,628,82.31,17.689999999999998
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Analytics_Weekly_Revenue_Planning_Daily_Extract_Weekly_Batch.sas,164,123,44,79,64.23,35.769999999999996
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Product_Analytics_7_Group_Projection_Comparision_RMSAD_LockedFcst.sas,166,101,31,70,69.31,30.689999999999998
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Product_Analytics_7_SRL_data.sas,85,53,10,43,81.13,18.870000000000005
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_(no_Add_Dem)_ESFactor_MRDW_Data_Pull.sas,573,499,23,476,95.39,4.609999999999999
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_ACT_MAMS_full_procedure.sas,170,98,16,82,83.67,16.33
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_Annual_Bonus_Reporting_2018_Converted_to_AW.sas,797,553,54,499,90.24,9.760000000000005
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_Asia_SGDS_Data.sas,77,47,23,24,51.06,48.94
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_Autograph_Hotel_Groupings_by_Open_Date_Converted_to_AW.sas,146,121,15,106,87.6,12.400000000000006
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_AW_ACTIVITY_UPLOAD.sas,94,69,7,62,89.86,10.14
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_AW_GRP_SCRIPT_FINAL.sas,1345,748,65,683,91.31,8.689999999999998
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_AW_load_AMT_AGG_2020_1st_Setup.sas,234,178,12,166,93.26,6.739999999999995
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_AW_PACE_UPLOAD.sas,205,184,6,178,96.74,3.260000000000005
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_Combine_MadAboutMktShare_Data3-OtherBrnds.sas,712,595,80,515,86.55,13.450000000000003
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_Combine_Master_MMAS_and_ESFACTOR.sas,12,2,2,0,0.0,100.0
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_Demand_Strategy_Data_Pullv4.sas,1014,569,31,538,94.55,5.450000000000003
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_ERS_Datapullv2.sas,316,266,9,257,96.62,3.3799999999999955
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_ESF-3_and_4_LOS_Mix.sas,120,55,6,49,89.09,10.909999999999997
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_ESF-Business_Mix.sas,79,55,7,48,87.27,12.730000000000004
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_ESF-Combine_Data.sas,676,553,84,469,84.81,15.189999999999998
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_ESF-Hotel_Level_Comp_Rates_Index_Final_RPO.sas,317,234,22,212,90.6,9.400000000000006
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_ESF-M.com_Volume_Growth.sas,147,112,9,103,91.96,8.040000000000006
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_ESF-STR_Monthly_(FW_WD_and_WE)_-_AW.sas,399,305,6,299,98.03,1.9699999999999989
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_ESFactor_-_OTB_Data_Pull.sas,180,129,12,117,90.7,9.299999999999997
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_ESFactor_Master.sas,35,9,9,0,0.0,100.0
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_ESFactor_MRDW_Data_Pull.sas,579,503,22,481,95.63,4.3700000000000045
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_ESF_-_OY_Forecast.sas,135,82,8,74,90.24,9.760000000000005
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_FDD_incl_Hotel_Detail_Converted_to_AW.sas,616,514,43,471,91.63,8.370000000000005
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_GroupBookings_WklyReport.sas,362,95,35,60,63.16,36.84
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_Intl_Pace_All.sas,215,129,53,76,58.91,41.09
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_Lux_Group_Pace.sas,14,11,4,7,63.64,36.36
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_MAMS-STR_Monthly_(FW_WD_and_WE)_-_AW.sas,396,283,8,275,97.17,2.8299999999999983
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_MAMS_-_OTB_Data_Pull.sas,310,229,12,217,94.76,5.239999999999995
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_MAMS_-_OY_Forecast.sas,126,83,8,75,90.36,9.64
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_MAMS_Master.sas,41,10,10,0,0.0,100.0
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_MAMS_MRDW_Data_Pull_-_Monthly_New.sas,405,349,17,332,95.13,4.8700000000000045
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_MAMS_zeroTOBEs120.sas,33,25,7,18,72.0,28.0
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_Mid_Year_Field_Bonus_Report.sas,183,143,37,106,74.13,25.870000000000005
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_Min_and_Max_AAA_Rate_-_12_Months_Ending_August_2015.sas,67,58,13,45,77.59,22.409999999999997
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_MI_vs_SPG_WS_Gross_Booking_YOY_2019.sas,439,357,11,346,96.92,3.0799999999999983
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_NEW_ROLLUPS_Annual_Bonus_Reporting_2018_Converted_to_AW.sas,823,628,63,565,89.97,10.030000000000001
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_nonrefundable_rpgs.sas,206,142,6,136,95.77,4.230000000000004
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_Remove_Sisters_from_Comp_Set_201911_(WS).sas,97,76,5,71,93.42,6.579999999999998
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_RevPlanningData_mo.sas,301,238,11,227,95.38,4.6200000000000045
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_RevPlanningData_mo_new.sas,309,238,11,227,95.38,4.6200000000000045
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_Rewards_Percentages-AW.sas,121,78,9,69,88.46,11.540000000000006
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_RPO_Jobs.sas,7,2,2,0,0.0,100.0
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_StaypaidNOS_YOY_SFB.sas,1040,702,100,602,85.75,14.25
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_STR_Adhoc_brand_Post_MISW.sas,134,108,8,100,92.59,7.409999999999997
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_STR_Adhoc_wdwe.sas,202,134,6,128,95.52,4.480000000000004
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_Supply_Growth_AW_-_WS.sas,349,242,8,234,96.69,3.3100000000000023
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_Threat_Assessment_Codev4.sas,447,336,16,320,95.24,4.760000000000005
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_transientpace_wk_v7_aw_load_vAW.sas,447,350,80,270,77.14,22.86
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_Transient_Pace_for_Threat_Assessment.sas,104,80,6,74,92.5,7.5
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_Weekender_Gross_Tracking.sas,285,236,16,220,93.22,6.780000000000001
+MDP_Migration_AW_Code_1-10-2020_1709_RM_Topline_Analytics_Weekender_Std_and_Pd.sas,845,685,18,667,97.37,2.6299999999999955
+MI vs SPG WS Gross Booking YOY 2019.sas,439,357,11,346,96.92,3.0799999999999983
+Mid Year Field Bonus Report.sas,183,143,37,106,74.13,25.870000000000005
+Min and Max AAA Rate - 12 Months Ending August 2015.sas,67,58,13,45,77.59,22.409999999999997
+NEW ROLLUPS Annual Bonus Reporting 2018 Converted to AW.sas,823,628,63,565,89.97,10.030000000000001
+nonrefundable_rpgs.sas,206,142,6,136,95.77,4.230000000000004
+OutboundData.sas,126,86,3,83,96.51,3.489999999999995
+OY_DATA.sas,430,373,73,300,80.43,19.569999999999993
+Pace_ManAdjustments_Detail_AW.sas,172,137,2,135,98.54,1.4599999999999937
+Prop Prod v Goal.sas,86,68,3,65,95.59,4.409999999999997
+QD.sas,242,140,4,136,97.14,2.8599999999999994
+QD_Whlsale.sas,300,169,26,143,84.62,15.379999999999995
+Quarterly_Crunch.sas,689,670,2,668,99.7,0.29999999999999716
+Quote Detail with Manual Adds_AW.sas,134,95,16,79,83.16,16.840000000000003
+Remove Sisters from Comp Set 201911 (WS).sas,97,76,5,71,93.42,6.579999999999998
+RevPlanningData_mo.sas,301,238,11,227,95.38,4.6200000000000045
+RevPlanningData_mo_new.sas,309,238,11,227,95.38,4.6200000000000045
+Rewards Percentages-AW.sas,121,78,9,69,88.46,11.540000000000006
+RPO Jobs.sas,7,2,2,0,0.0,100.0
+sas starter.sas,31,16,16,0,0.0,100.0
+SFO_Wholesale_Data_(FINAL).sas,260,138,22,116,84.06,15.939999999999998
+Special_Corporate.sas,131,106,17,89,83.96,16.040000000000006
+STAR_POST_PROCESS.SAS,99,27,27,0,0.0,100.0
+State of the Hotel.sas,1017,763,135,628,82.31,17.689999999999998
+StaypaidNOS YOY SFB.sas,1040,702,100,602,85.75,14.25
+STR Adhoc brand Post MISW.sas,134,108,8,100,92.59,7.409999999999997
+STR Adhoc wdwe.sas,202,134,6,128,95.52,4.480000000000004
+Supply Growth AW - WS.sas,350,242,8,234,96.69,3.3100000000000023
+Threat Assessment Codev4.sas,447,336,16,320,95.24,4.760000000000005
+Transient Pace for Threat Assessment.sas,104,80,6,74,92.5,7.5
+transientpace_wk v7_aw load vAW.sas,447,350,80,270,77.14,22.86
+US_Account_Sales_ASAR_Project.sas,347,227,57,170,74.89,25.11
+wcomp aw.sas,353,328,2,326,99.39,0.6099999999999994
+Weekender Gross Tracking.sas,285,236,16,220,93.22,6.780000000000001
+Weekender Std & Pd.sas,845,685,18,667,97.37,2.6299999999999955
+W_Consortia_Production.sas,260,221,47,174,78.73,21.269999999999996
+YTD_Cost_Allocation.sas,120,88,6,82,93.18,6.819999999999993
